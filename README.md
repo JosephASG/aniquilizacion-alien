@@ -7,12 +7,19 @@
 ## 🎮 Controls
 
 Forward -------------- [ W ] 
-Back ------------------ [ S ] 
+
+Back ------------------ [ S ]
+
 Left -------------------- [ A ] 
+
 Right ------------------ [ D ] 
+
 Shoot ----------------- [ SPACE ] 
+
 Speed up ------------ [ SHIFT ]
+
 Change view ------- [ C ]
+
 Pause ---------------- [ ESC ]
 
 ## 📺 Gameplay
@@ -41,8 +48,9 @@ Pause ---------------- [ ESC ]
 ## 🧑‍💻 Development and design
 
 <a href="https://joseph-san.com/" style="display: flex; justify-content: start; align-items: center; margin-bottom: 20px; color:white; mix-blend-mode:difference;">
-    <img src="img/js-logo.png" style="margin-right: 20px;max-height: 50px;" alt="Joseph Santamaria Logo">
-    Joseph Santamaria - Interactive developer & Creative designer
+    <img src="img/js-logo.png" alt="Texto alternativo" style="max-width: 100px; margin-right: 20px;">
+    <span>Joseph Santamaria - Interactive developer & Creative designer</span>
 </a>
+
 
 > Diego Chancusig - Designer and developer
